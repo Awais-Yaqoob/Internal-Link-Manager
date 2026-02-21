@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Internal Link Manager By Bloomhouse
+ * Plugin Name: Internal Link Manager By Awaia Yaqoob
  * Description: Safely inserts internal links server-side from JSON mappings. Never inserts into the first <p> (hero) for pages/CPTs, never into template/shortcode embeds (Elementor/Elementskit/ekit etc.), single-text-node insertions only. Version 1.9.2
  * Version: 1.9.2
  * Author: BloomHouse Marketing LLC
